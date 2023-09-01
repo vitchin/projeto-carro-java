@@ -1,10 +1,9 @@
-# Projeto POO em Java
+# Projeto Carro - POO em Java
 
-
-### Projeto em Programação Orientada a Objetos em Java, utilizando getters e setters. 
+Projeto em Programação Orientada a Objetos em Java, utilizando getters e setters. Usando como objeto um carro. 
 
 
 _**Objeto:**_ Carro.
 
 
-_**Função:**_ Fazer de utilização getters e setters na chamada.
+_**Objetivo:**_ Fazer de utilização getters e setters na chamada.
